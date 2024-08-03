@@ -5,7 +5,7 @@
 - 👀 I’m interested in web development and problem solving 
 - 🌱 I’m currently learning **ReactJs and Backend**
 - 🤝 If you want a team then DM me @ **upasnachoudhary216@gmail.com**
-- 👨‍💻 All of my projects are available at [https://github.com/upasanagithubrit] and [https://github.com/upasanagithubrit]
+- 👨‍💻 All of my projects are available at [https://github.com/upasanagithubrit] and [https://vercel.com/upasana-s-projects]
 - 💬 Ask me about **C/C++**
 - 📫 How to reach me **upasnachoudhary216@gmail.com**
 
